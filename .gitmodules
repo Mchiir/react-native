@@ -1,3 +1,6 @@
 [submodule "DoneWithIt"]
 	path = DoneWithIt
 	url = https://github.com/Mchiir/DoneWithIt.git
+[submodule "Ecommerce-app-react-native"]
+	path = Ecommerce-app-react-native
+	url = https://github.com/Mchiir/ecommerce-reactNative.git
