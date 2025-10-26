@@ -4,3 +4,6 @@
 [submodule "Ecommerce-app-react-native"]
 	path = Ecommerce-app-react-native
 	url = https://github.com/Mchiir/ecommerce-reactNative.git
+[submodule "MyFitness-Tracker"]
+	path = MyFitness-Tracker
+	url = https://github.com/Mchiir/MyFitness-Tracker.git
