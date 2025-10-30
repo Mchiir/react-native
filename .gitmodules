@@ -7,3 +7,6 @@
 [submodule "MyFitness-Tracker"]
 	path = MyFitness-Tracker
 	url = https://github.com/Mchiir/MyFitness-Tracker.git
+[submodule "MyFirstExpoApp2"]
+	path = MyFirstExpoApp2
+	url = https://github.com/Mchiir/MyFirstExpoApp.git
