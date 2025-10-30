@@ -51,6 +51,14 @@ yarn web
 > install and use **Expo Client**, scan the metro bundler QR code, then view the app, shake the device to open **React-native dev menu**. (I contantly press **S** simply on my bluestack's Expo client to open **dev menu**)
 > please make sure your device and host machine are connected on the **same network**, WI-FI or via USB.
 
+### Adding existing sub-repos ass submodules
+
+```bash
+git rm -r --cached MyFirstExpoApp2 # clearing cache, in case it was cached accidentally
+
+git submodule add https://github.com/Mchiir/MyFirstExpoApp.git MyFirstExpoApp2
+```
+
 ## Resources
 
 - [Codecademy course](www.codecademy.com/courses/learn-react-native/lessons/react-native-fundamentals-v53)
