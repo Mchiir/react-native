@@ -10,3 +10,6 @@
 [submodule "MyFirstExpoApp2"]
 	path = MyFirstExpoApp2
 	url = https://github.com/Mchiir/MyFirstExpoApp.git
+[submodule "SocialMedia"]
+	path = SocialMedia
+	url = https://github.com/Mchiir/puppystories-reactnative
